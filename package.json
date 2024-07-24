@@ -48,7 +48,7 @@
 		"web-vitals": "^3.5.1"
 	},
 	"devDependencies": {
-		"@enact/cli": "^1.0.4",
+		"@enact/cli": "^6.1.2",
 		"eslint-config-enact-proxy": "^1.0.7"
 	}
 }
