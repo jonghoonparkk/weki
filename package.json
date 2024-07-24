@@ -17,7 +17,6 @@
 		"license": "enact license",
 		"test": "enact test",
 		"test-watch": "enact test --watch",
-		"prebuild": "npx update-browserslist-db@latest",
 		"build": "enact pack -p"
 	},
 	"license": "UNLICENSED",
