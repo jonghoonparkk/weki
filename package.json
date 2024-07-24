@@ -13,8 +13,7 @@
 		"lint": "enact lint .",
 		"license": "enact license",
 		"test": "enact test",
-		"test-watch": "enact test --watch",
-		"build": "enact pack -p"
+		"test-watch": "enact test --watch"
 	},
 	"license": "UNLICENSED",
 	"private": true,
